@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Arena Sport 1",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "imageUrl": "https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png"
+  },
+  {
+    "id": 2,
+    "name": "Arena Sport 2",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "imageUrl": "https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png"
+  },
+  {
+    "id": 3,
+    "name": "Arena Sport 3",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+    "imageUrl": "https://www.thesportsdb.com/images/media/logo/Arena_Sport_3.png"
+  },
+  {
+    "id": 4,
+    "name": "Arena Sport 4",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+    "imageUrl": "https://www.thesportsdb.com/images/media/logo/Arena_Sport_4.png"
+  },
+  {
+    "id": 8,
+    "name": "Arena Sport 5",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "imageUrl": "https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png"
+  },
+  {
+    "id": 6,
+    "name": "Fox Life",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fox-Life.png/1200px-Fox-Life.png"
+  },
+  {
+    "id": 7,
+    "name": "Sport Klub 1",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+    "imageUrl": "https://nstatic.net/img/tv/channels/m/sport-klub.png"
+  },
+  {
+    "id": 5,
+    "name": "Sport Klub 2",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "imageUrl": "https://nstatic.net/img/tv/channels/m/sport-klub-2.png"
+  }
+]
